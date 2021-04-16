@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="ma-selection">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="carte" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="carte">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="scollection"/>
+        <xs:element ref="classe"/>
+      </xs:sequence>
+      <xs:attribute name="numéro" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="scollection">
+    <xs:complexType>
+      <xs:attribute name="sous-collection" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="classe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="rubrique"/>
+      </xs:sequence>
+      <xs:attribute name="categorie" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="rubrique">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="legende"/>
+        <xs:element ref="vignette"/>
+        <xs:element name="collation" type="xs:string"/>
+        <xs:element name="technique" type="xs:string"/>
+        <xs:element name="couleur" type="xs:string"/>
+        <xs:element name="dimension" type="xs:string"/>
+        <xs:element name="description" type="xs:string"/>
+      </xs:sequence>
+      <xs:attribute name="nom" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="legende">
+    <xs:complexType>
+      <xs:attribute name="code" type="xs:string" use="required"/>
+      <xs:attribute name="date" type="xs:string" use="required"/>
+      <xs:attribute name="photographe" type="xs:string" use="required"/>
+      <xs:attribute name="theme" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vignette">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="img"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="img">
+    <xs:complexType>
+      <xs:attribute name="src" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

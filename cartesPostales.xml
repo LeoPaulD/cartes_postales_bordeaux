@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ma-selection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+  <carte numéro="1">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Evénements et manifestations">
+          <legende code="16 Fi 431" theme="Visite de M. Pelletan, ministre de la Marine, à l'école du Service de Santé de Bordeaux, le 24 janvier 1904." photographe="A. Esquiro" date="1904"/>
+          <vignette><img src="carte1.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="2">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Evénements et manifestations">
+          <legende code="16 Fi 432" theme="Visite de M. Pelletan, ministre de la Marine, à l'école du Service de Santé de Bordeaux, le 24 janvier 1904." photographe="A. Esquiro" date="1904"/>
+          <vignette><img src="carte2.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>Les élèves dans la cour de l'établissement.</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="3">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Evénements et manifestations">
+          <legende code="16 Fi 433" theme="Fêtes Fédérales et Présidentielles, avril 1905, à Bordeaux. La Garonne le soir de l'arrivée du Président de la République." photographe="s.n" date="1905"/>
+          <vignette><img src="carte3.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="4">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Evénements et manifestations">
+          <legende code="16 Fi 434" theme="Concours de ballons pendant les fêtes présidentielles à Bordeaux." photographe="Cliché Panajou frères" date="1905"/>
+          <vignette><img src="carte4.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>Ascension du ballon "Phoebe" sur la place des Quinconces lors du concours de 1905.</description>
+        </rubrique>
+    </classe>
+  </carte>
+   <carte numéro="5">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Métiers et commerces">
+          <legende code="16 Fi 420" theme="Bordeaux. Marchande de Marrons." photographe="s.n" date="1904"/>
+          <vignette><img src="carte5.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="6">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Métiers et commerces">
+          <legende code="16 Fi 415" theme="Types Bordelais. Sonneur de cloche." photographe="Marcel Delboy" date="1907"/>
+          <vignette><img src="carte6.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>14 × 9 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="7">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Métiers et commerces">
+          <legende code="16 Fi 418" theme="Types Bordelais. Attelage de laitière." photographe="Marcel Delboy" date="1907"/>
+          <vignette><img src="carte7.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="8">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Moyens de transports">
+          <legende code="16 Fi 79" theme="Bordeaux. Arrivée d'un transatlantique." photographe="s.n" date="1905"/>
+          <vignette><img src="carte8.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="9">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Moyens de transports">
+          <legende code="16 Fi 84" theme="L'échouement en Garonne du paquebot des M. M. 'Le Chili', le 24 avril 1903." photographe="s.n" date="1903"/>
+          <vignette><img src="carte9.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>NA</description>
+        </rubrique>
+    </classe>
+  </carte>
+  <carte numéro="10">
+    <scollection sous-collection="Bordeaux"/>
+      <classe categorie="Classement thématique">
+        <rubrique nom="Beaux-arts">
+          <legende code="16 Fi 403" theme=" Procès en Cour d'Appel par Paul Salzédo [1890]." photographe="s.n" date="début XXe siècle"/>
+          <vignette><img src="carte10.jpeg"/></vignette>
+          <collation>impression</collation>
+          <technique>photomécanique</technique>
+          <couleur>noir et blanc</couleur>
+          <dimension>9 × 14 cm</dimension>
+          <description>Vue de ce tableau conservé au Musée des Beaux-arts de Bordeaux.</description>
+        </rubrique>
+    </classe>
+  </carte>
+
+  
+ 
+</ma-selection> 
